@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Seal from '../components/Seal.astro';
+import {book,chapters,href} from '../lib/content';
+import '@fontsource/cinzel-decorative/latin-ext-400.css';
+import '@fontsource/cinzel-decorative/latin-400.css';
+import '../styles/home-menu.css';
+import '../styles/home-energy.css';
+const all=chapters();
+const connections=['M345 335 L300 335 L255 200 L210 200','M655 335 L700 335 L745 200 L790 200','M345 465 L300 465 L255 600 L210 600',...(book.showUniverse?['M655 465 L700 465 L745 600 L790 600']:[])];
+const portals=[
+ {path:'icindekiler/',title:'İçindekiler',note:'Hikayenin sayfaları',position:'nw',number:'I'},
+ {path:'karakterler/',title:'Karakterler',note:'Mührün çevresindeki yüzler',position:'ne',number:'II'},
+ {path:'mekanlar/',title:'Mekanlar',note:'İstanbul’dan Troas’a',position:'sw',number:'III'},
+ ...(book.showUniverse?[{path:'evren/',title:'Evren',note:'Görünenin ardındaki dünya',position:'se',number:'IV'}]:[])
+];
+---
+<Layout cover><main id="main"><section class="cover-stage game-cover" aria-labelledby="book-title"><div class="cover-frame"></div>{book.coverImage&&<img class="cover-image" src={href(book.coverImage)} alt=""/>}<svg class="menu-connections" viewBox="0 0 1000 800" preserveAspectRatio="none" aria-hidden="true"><g class="connection-base" fill="none" stroke="currentColor" stroke-width="1">{connections.map((d,i)=><path d={d} pathLength="1" style={`--branch:${i}`}/>)}</g><g class="energy-trails" fill="none" stroke-width="1.8">{connections.map((d,i)=><path d={d} pathLength="1" style={`--branch:${i}`}/>)}</g><g class="hover-energy" fill="none" stroke="#e5c991" stroke-width="2" stroke-linecap="round">{connections.map((d,i)=><path d={d} pathLength="1" data-branch={i}/>)}</g><g fill="currentColor"><circle cx="345" cy="335" r="2"/><circle cx="655" cy="335" r="2"/><circle cx="345" cy="465" r="2"/>{book.showUniverse&&<circle cx="655" cy="465" r="2"/>}</g></svg><div class="cover-content"><p class="eyebrow">{book.subtitle}</p><Seal energized/><h1 id="book-title"><span class="living-title">{book.title}</span></h1><p class="author">{book.author}</p><div class="little-rule"></div><p class="cover-description">{book.description}</p><a class="primary-button" id="resume-link" data-chapters={JSON.stringify(all.map(c=>({slug:c.slug,url:href(`bolum/${c.slug}/`)})))} href={all.length?href(`bolum/${all[0].slug}/`):href('icindekiler/')}>{all.length?'Okumaya Başla':'İçindekiler'}</a><a class="studio-return" href="https://aedilismedia.com" rel="noopener"><span aria-hidden="true">←</span> Aedilis Media’ya dön</a></div><nav class="portal-menu" aria-label="Kitabı keşfet">{portals.map((portal,i)=><a class={`menu-portal portal-${portal.position}`} style={`--branch:${i}`} href={href(portal.path)}><span class="portal-index" aria-hidden="true">{portal.number}</span><span class="portal-title">{portal.title}</span><span class="portal-note">{portal.note}</span><span class="portal-joint" aria-hidden="true">◇</span></a>)}</nav><button id="cover-motion" class="cover-motion" type="button" aria-pressed="false" hidden>Hareketi durdur</button><div class="cover-bottom"><span>MİTOLOJİK BİR ANLATI</span><span>DİJİTAL KİTAP · {String(all.length).padStart(2,'0')} BÖLÜM</span></div></section><section class="foreword page-shell" aria-labelledby="foreword-title"><span class="eyebrow">KİTABI AÇARKEN</span><h2 id="foreword-title">{book.prefaceTitle}</h2>{book.preface.split(/\n+/).filter(Boolean).map(paragraph=><p>{paragraph}</p>)}<p class="dedication">{book.dedication}</p><div class="ornament" aria-hidden="true">◇</div><blockquote>{book.epigraph}</blockquote></section></main></Layout>
+
+<script>import '../scripts/home-energy';</script>

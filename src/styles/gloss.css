@@ -1,0 +1,12 @@
+/* Sözlük işaretleri */
+.gloss{cursor:help;outline:none}
+.gloss-word{border-bottom:1px dotted color-mix(in srgb,var(--accent) 70%,transparent)}
+.gloss-star{color:var(--accent);font:600 .78em/1 var(--ui);margin-left:1px;vertical-align:.38em;padding:0 2px}
+.gloss:hover .gloss-word,.gloss:focus-visible .gloss-word{border-bottom-style:solid}
+.gloss:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+#gloss-tip{position:fixed;z-index:60;max-width:min(300px,calc(100vw - 24px));padding:10px 14px;font:400 13px/1.55 var(--ui);color:var(--paper);background:var(--ink);border-radius:3px;box-shadow:0 8px 24px rgba(0,0,0,.22);pointer-events:none}
+#gloss-tip[hidden]{display:none}
+#gloss-tip::after{content:'';position:absolute;left:var(--arrow,50%);width:8px;height:8px;background:inherit;transform:translateX(-50%) rotate(45deg)}
+#gloss-tip[data-side=above]::after{bottom:-4px}
+#gloss-tip[data-side=below]::after{top:-4px}
+@media print{.gloss-star{display:none}.gloss-word{border-bottom:0}#gloss-tip{display:none}}

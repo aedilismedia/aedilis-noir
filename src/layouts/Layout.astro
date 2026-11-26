@@ -1,0 +1,21 @@
+---
+import {book,href,absolute} from '../lib/content';
+import Seal from '../components/Seal.astro';
+import '../styles/global.css';
+import '../styles/navigation.css';
+import '../styles/image-loading.css';
+import '../styles/gate.css';
+import '@fontsource/cormorant-garamond/latin-ext-400.css';
+import '@fontsource/cormorant-garamond/latin-400.css';
+import '@fontsource/cormorant-garamond/latin-ext-500.css';
+import '@fontsource/cormorant-garamond/latin-500.css';
+import '@fontsource/source-serif-4/latin-ext-400.css';
+import '@fontsource/source-serif-4/latin-400.css';
+const navigation=[{label:"İçindekiler",path:"icindekiler"},{label:"Karakterler",path:"karakterler"},{label:"Mekanlar",path:"mekanlar"},...(book.showUniverse?[{label:"Evren",path:"evren"}]:[])];
+const {title=book.title,description=book.description,cover=false,reader=false,atlas=false}=Astro.props;
+---
+<!doctype html><html lang="tr"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title===book.title?`${book.title} — ${book.author}`:`${title} — ${book.title}`}</title><meta name="description" content={description}/><meta name="theme-color" content="#242723"/><link rel="canonical" href={absolute(Astro.url.pathname.replace(import.meta.env.BASE_URL,''))}/><link rel="icon" type="image/svg+xml" href={href('favicon.svg')}/><link rel="alternate" type="application/rss+xml" title={`${book.title} · Yeni bölümler`} href={href('rss.xml')}/><meta property="og:type" content={reader?'article':'website'}/><meta property="og:locale" content="tr_TR"/><meta property="og:title" content={`${title} — ${book.author}`}/><meta property="og:description" content={description}/><meta property="og:url" content={absolute(Astro.url.pathname.replace(import.meta.env.BASE_URL,''))}/><meta property="og:image" content={absolute('sosyal-kapak.png')}/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content={title}/><meta name="twitter:description" content={description}/><meta name="twitter:image" content={absolute('sosyal-kapak.png')}/>
+<script is:inline>try{const s=JSON.parse(localStorage.getItem('kut-settings')||'{}');const r=document.documentElement;const t=['light','sepia','dark'].includes(s.theme)?s.theme:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');r.dataset.theme=t;r.style.setProperty('--reader-size',([18,20,22,24,27][s.size??2]||22)+'px');r.style.setProperty('--reader-leading',s.leading==='relaxed'?'1.85':'1.75');r.style.setProperty('--reader-width',s.width==='wide'?'72ch':'64ch');}catch{}</script>
+<script is:inline>try{var q=location.search;if(/[?&]kilitleri-ac(&|=|$)/.test(q))localStorage.setItem('kut-gate-off','true');else if(/[?&]kilitleri-kapat(&|=|$)/.test(q))localStorage.removeItem('kut-gate-off');}catch(e){}</script></head><body class:list={[{cover,reader,atlas}]}><a class="skip-link" href="#main">İçeriğe geç</a><header class="site-header" id="site-header"><a class="brand" href={href()} aria-label={`${book.title} · Ana sayfa`}><Seal small/><span>{book.title}</span></a><nav aria-label="Ana gezinme"><div class="header-links">{navigation.map(link=><a href={href(`${link.path}/`)} aria-current={Astro.url.pathname.includes(link.path)?'page':undefined}>{link.label}</a>)}</div><details class="mobile-menu"><summary>Menü</summary><div class="mobile-menu-panel">{navigation.map(link=><a href={href(`${link.path}/`)} aria-current={Astro.url.pathname.includes(link.path)?'page':undefined}>{link.label}</a>)}</div></details>{reader&&<button class="settings-open" aria-label="Okuma ayarlarını aç" aria-haspopup="dialog" id="settings-open"><span aria-hidden="true">Aa</span><span class="settings-word">Okuma ayarları</span></button>}</nav></header>
+<slot/><footer class="site-footer"><a href={href()}>{book.title}</a><span>{book.copyright || '© 2026 Aedilis Media™ | Tüm hakları saklıdır.'}</span><a href={href('rss.xml')}>RSS</a></footer>
+<script>import '../scripts/common';import '../scripts/image-loading';</script></body></html>

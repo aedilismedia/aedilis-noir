@@ -1,0 +1,7 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Seal from '../components/Seal.astro';
+import {book,universe} from '../lib/content';
+export function getStaticPaths(){return book.showUniverse?[{params:{info:"evren"}}]:[];}
+---
+<Layout title="Evren Hakkında"><main id="main" class="universe page-shell"><Seal/><span class="eyebrow">EVREN HAKKINDA</span>{book.showUniverse?<article class="prose" set:html={universe()}/>:<><h1>Bu sayfa mühürlenmiş.</h1><p>Evren sayfası şu an yayımlanmıyor.</p></>}</main></Layout>

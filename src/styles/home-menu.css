@@ -1,0 +1,43 @@
+/* Kapak, kitabın dört bölümüne bağlanan bir ana menü olarak düzenlenir. */
+.cover .site-header{display:none}
+.game-cover{min-height:max(800px,100svh);padding:90px 28px 105px;overflow:hidden}
+.game-cover .cover-frame{inset:24px;border-color:#b6996524}
+.game-cover .cover-content{width:46%;max-width:630px;position:relative;z-index:2}
+.game-cover .cover-content h1{font-size:clamp(70px,7.5vw,132px);white-space:nowrap}
+.game-cover .cover-content>.eyebrow{font-size:12px;letter-spacing:.24em}
+.game-cover .cover-content>.seal{width:110px;height:110px;margin-bottom:28px}
+.game-cover .cover-description{max-width:440px;font-size:16px;padding:0 12px}
+.game-cover .primary-button{background:#b69965;color:#242923;border-color:#b69965;font-size:14px;min-height:50px}
+.game-cover .primary-button:hover{background:#d0b887}
+.game-cover a:focus-visible{outline:2px solid #e0c596;outline-offset:7px}
+.menu-connections{position:absolute;inset:0;width:100%;height:100%;color:#b699657d;pointer-events:none;z-index:1}
+.menu-connections path{vector-effect:non-scaling-stroke}
+.portal-menu{display:contents}
+.menu-portal{position:absolute;width:19%;min-height:112px;padding:18px 10px;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#e7deca;z-index:3;border-top:1px solid #b6996559;border-bottom:1px solid #b6996559;background:#242923;transition:background .25s,border-color .25s,transform .25s}
+.menu-portal::before,.menu-portal::after{content:'';position:absolute;top:-4px;bottom:-4px;width:5px;border-top:1px solid #b69965;border-bottom:1px solid #b69965}
+.menu-portal::before{left:0;border-left:1px solid #b69965}.menu-portal::after{right:0;border-right:1px solid #b69965}
+.portal-nw,.portal-sw{left:5%}.portal-ne,.portal-se{right:5%}.portal-nw,.portal-ne{top:25%;transform:translateY(-50%)}.portal-sw,.portal-se{top:75%;transform:translateY(-50%)}
+.portal-index{font:12px var(--ui);color:#b69965;letter-spacing:.15em;margin-bottom:7px}.portal-title{font:clamp(26px,2.7vw,43px)/1.1 var(--heading)}.portal-note{font:12px/1.5 var(--ui);color:#b7b8a8;margin-top:9px}.portal-joint{position:absolute;top:50%;font:18px/1 var(--heading);color:#b69965;background:#242923;transform:translateY(-50%)}.portal-nw .portal-joint,.portal-sw .portal-joint{right:-7px}.portal-ne .portal-joint,.portal-se .portal-joint{left:-7px}
+.menu-portal:hover{background:#2f332a;border-color:#cfb17b;color:#fff0d2}.menu-portal:hover .portal-note{color:#d4d2bc}.menu-portal:focus-visible{background:#2f332a}
+.game-cover:has(.portal-nw:hover) .menu-connections path:nth-child(1),.game-cover:has(.portal-ne:hover) .menu-connections path:nth-child(2),.game-cover:has(.portal-sw:hover) .menu-connections path:nth-child(3),.game-cover:has(.portal-se:hover) .menu-connections path:nth-child(4){stroke:#ddc28e;stroke-width:1.5}
+.game-cover .cover-bottom{font-size:11px;letter-spacing:.12em;left:48px;right:48px;bottom:45px}
+@media(max-width:850px){
+ .game-cover{min-height:100svh;padding:60px 28px 85px;display:flex;flex-direction:column;gap:0}
+ .game-cover .cover-content{width:100%;max-width:520px}.game-cover .cover-content h1{font-size:clamp(62px,12vw,96px);white-space:normal}.game-cover .cover-content>.seal{width:84px;height:84px;margin-bottom:20px}.game-cover .cover-content>.eyebrow{font-size:11px;letter-spacing:.17em;margin-bottom:20px}.game-cover .author{font-size:12px}.game-cover .cover-description{font-size:16px;margin-bottom:24px}.game-cover .little-rule{margin:22px 0}
+ .menu-connections{display:none}.portal-menu{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 20px;position:relative;width:100%;max-width:520px;margin-top:56px;padding-top:22px}
+ .portal-menu::before{content:'';position:absolute;top:-36px;left:50%;height:36px;border-left:1px solid #b6996580}.portal-menu::after{content:'';position:absolute;top:0;left:24%;right:24%;height:22px;border:1px solid #b6996580;border-bottom:0}
+ .menu-portal{position:relative;inset:auto;width:100%;min-height:112px;transform:none;padding:15px 8px}.portal-title{font-size:29px}.portal-note{font-size:12px}.portal-joint{display:none}.portal-index{font-size:12px}
+ .game-cover .cover-bottom{bottom:25px;left:30px;right:30px;font-size:9px;gap:14px}.game-cover .cover-frame{inset:14px}
+}
+@media(prefers-reduced-motion:reduce){.menu-portal{transition:none}.game-cover .cover-content{animation:none}}
+@media print{.menu-connections,.portal-menu{display:none}.game-cover{min-height:0;padding:20px}.game-cover .cover-content{width:100%}.cover .site-header{display:none}}
+
+/* Kapak başlığı: kazıma anıt yazısı (Cinzel Decorative), altın tonlu ve geniş aralıklı */
+.game-cover .cover-content h1{font-family:'Cinzel Decorative','Cormorant Garamond',Georgia,serif;font-weight:400;font-size:clamp(44px,5.6vw,84px);letter-spacing:.045em;line-height:1.08;text-transform:uppercase}
+.game-cover .cover-content h1 .living-title{background:linear-gradient(180deg,#f6ecd2 8%,#e0c88f 52%,#b69965 100%);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;text-shadow:none;filter:drop-shadow(0 2px 14px #00000066)}
+.studio-return{margin-top:22px;font:12px/1.4 var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--cover-muted);text-decoration:none;padding:12px 14px;min-height:44px;display:inline-flex;align-items:center;gap:8px;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+.studio-return:hover,.studio-return:focus-visible{color:var(--gold);border-bottom-color:var(--gold)}
+.studio-return span{font-size:15px;line-height:1;transition:transform .2s}
+.studio-return:hover span{transform:translateX(-3px)}
+@media(max-width:850px){.game-cover .cover-content h1{font-size:clamp(46px,12vw,76px);letter-spacing:.04em}}
+@media print{.studio-return{display:none}}

@@ -1,0 +1,26 @@
+/* Sıralı okuma: kilitli bölümler */
+.book-group{margin-top:44px}
+.book-group:first-of-type{margin-top:34px}
+.book-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;padding-bottom:16px;border-bottom:1px solid var(--accent)}
+.book-heading .eyebrow{font-size:10px;letter-spacing:.2em;color:var(--accent)}
+.book-heading h2{font:400 clamp(34px,5vw,48px)/1.1 var(--heading);margin:6px 0 0}
+.book-count{font:12px var(--ui);color:var(--muted);white-space:nowrap}
+.contents-meta{margin-top:34px}
+.chapter-list a.is-locked{opacity:.5;cursor:not-allowed}
+.chapter-list a.is-locked:hover{padding-left:4px;background:none}
+.lock-mark{font-size:11px;color:var(--accent)}
+.chapter-navigation a.is-locked{opacity:.55;cursor:not-allowed}
+.chapter-navigation a.is-locked strong::after{content:' ·  kilitli';font:11px var(--ui);color:var(--muted);letter-spacing:.06em}
+.lock-note{font:12px/1.6 var(--ui);color:var(--muted)}
+.lock-note[hidden]{display:none}
+.chapter-lock{display:none;max-width:560px;width:calc(100% - 48px);margin:36px auto 90px;text-align:center;padding:40px 28px;border:1px solid var(--line);background:var(--panel);font-family:var(--ui)}
+html[data-locked] .chapter-lock{display:block}
+html[data-locked] #chapter-text,html[data-locked] .chapter-finish,html[data-locked] .unlocks,html[data-locked] .chapter-heading blockquote,html[data-locked] .reading-status,html[data-locked] .reading-progress{display:none!important}
+.chapter-lock .ornament{display:block;color:var(--accent);font-size:18px}
+.chapter-lock h2{font:400 36px/1.15 var(--heading);margin:10px 0 12px}
+.chapter-lock p{font-size:14px;line-height:1.8;color:var(--muted);margin:0 0 24px}
+.chapter-lock-actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.chapter-lock-actions a{font-size:13px;padding:12px 18px;min-height:44px;display:inline-flex;align-items:center;border:1px solid var(--accent);color:var(--ink);text-decoration:none}
+.chapter-lock-actions a.primary{background:var(--accent);color:var(--paper)}
+@media(max-width:700px){.book-heading{flex-direction:column;align-items:flex-start;gap:8px}.chapter-lock{padding:32px 20px;margin-bottom:60px}}
+@media print{.book-count,.lock-mark,.chapter-lock{display:none!important}}

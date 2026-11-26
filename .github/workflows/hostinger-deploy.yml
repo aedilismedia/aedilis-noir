@@ -1,0 +1,45 @@
+# main dalına her push'ta siteyi derler ve Hostinger'a FTP ile yükler.
+# Yalnızca değişen dosyalar gönderilir (ilk yükleme hariç).
+# Gerekli GitHub Secrets: FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
+# FTP hesabı ana dizinde (home) açılır; sitenin klasörü aşağıda sabittir (FTP_DIR değişkeni artık kullanılmaz).
+name: Hostinger'a yayınla
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: hostinger-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-24.04
+    env:
+      FTP_SERVER: ${{ secrets.FTP_SERVER }}
+      FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+      FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          ASTRO_TELEMETRY_DISABLED: "1"
+      - name: FTP bilgileri eksik mi?
+        if: env.FTP_SERVER == '' || env.FTP_USERNAME == '' || env.FTP_PASSWORD == ''
+        run: echo "::warning::FTP_SERVER / FTP_USERNAME / FTP_PASSWORD secret'ları tanımlı değil; derleme yapıldı ama yükleme atlandı."
+      - name: Hostinger'a yükle
+        if: env.FTP_SERVER != '' && env.FTP_USERNAME != '' && env.FTP_PASSWORD != ''
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ env.FTP_SERVER }}
+          username: ${{ env.FTP_USERNAME }}
+          password: ${{ env.FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./dist/
+          server-dir: domains/aedilismedia.com/public_html/kutmuhru/

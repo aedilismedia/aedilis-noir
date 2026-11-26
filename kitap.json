@@ -1,0 +1,16 @@
+{
+  "title": "Kut Mührü",
+  "subtitle": "Anadolu'nun Altındaki Kapılar",
+  "author": "Erkan Avcı",
+  "description": "Anadolu'nun altında binlerce yıldır duran bir mühür düzeni var. Kapılar, unutulmuş antlaşmalar ve kimsenin sormaya cesaret edemediği bir soru: mühürler dünyayı koruyor, yoksa bir şeyi bizden mi saklıyor?",
+  "epigraph": "Her kapı bir yere açılmaz. Bazıları bir zamanı saklar.",
+  "prefaceTitle": "Okura bir not",
+  "preface": "Bu kitap bir kapıyla başlar, ama asıl meselesi unutuştur.\nİstanbul gibi şehirler üst üste kurulur. Her yeni temel, bir öncekinin gövdesine oturur; altta kalan şey taşla, betonla ya da sessizlikle örtülür. Kut Mührü, o örtülerin altında ne kaldığını soran bir hikayedir.\nSayfaları bir kazı gibi çevirin: yavaş, dikkatle, hiçbir şeyi bozmadan. Bazı sorular uzun süre cevapsız kalacak. Bazı kapılar bilerek aralık bırakıldı.\nVe unutmayın: bir şeyin kapalı durması, onun güvende olduğu anlamına gelmez.",
+  "dedication": "Unutulmuş olan her şeye...",
+  "showUniverse": true,
+  "books": [{"number": 1, "title": "1. Kitap"}],
+  "coverImage": "",
+  "siteUrl": "https://kutmuhru.aedilismedia.com",
+  "base": "/",
+  "copyright": "© 2026 Aedilis Media™ | Tüm hakları saklıdır."
+}
