@@ -2,7 +2,9 @@
 name: "Tamer Vural"
 role: "Hikâyenin merkezindeki adam"
 age: 41
-image: ""
+image: "karakterler/tamer-vural.jpg"
+imagePosition: "50% 30%"
+portraitNote: "Temsili portre"
 order: 1
 chapter: 1
 draft: false

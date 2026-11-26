@@ -1,7 +1,9 @@
 ---
 name: "Rıfat Duman"
 role: "Gazinolar Caddesi'nin patronlarından"
-image: ""
+image: "karakterler/rifat-duman.jpg"
+imagePosition: "50% 35%"
+portraitNote: "Temsili portre"
 order: 8
 chapter: 1
 draft: false

@@ -1,7 +1,9 @@
 ---
 name: "Kemal Rıza"
 role: "Valara'da bir avukat"
-image: ""
+image: "karakterler/kemal-riza.jpg"
+imagePosition: "50% 35%"
+portraitNote: "Temsili portre"
 order: 2
 chapter: 1
 draft: false

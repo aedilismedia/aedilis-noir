@@ -1,7 +1,9 @@
 ---
 name: "Selim Fırtına"
 role: "Dersina'daki Fırtına ailesinin başı"
-image: ""
+image: "karakterler/selim-firtina.jpg"
+imagePosition: "50% 35%"
+portraitNote: "Temsili portre"
 order: 3
 chapter: 1
 draft: false

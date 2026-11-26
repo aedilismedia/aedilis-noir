@@ -1,7 +1,9 @@
 ---
 name: "Cevdet Arslan"
 role: "Herkesi tanıyan arabulucu"
-image: ""
+image: "karakterler/cevdet-arslan.jpg"
+imagePosition: "50% 35%"
+portraitNote: "Temsili portre"
 order: 6
 chapter: 1
 draft: false
