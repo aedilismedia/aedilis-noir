@@ -1,0 +1,76 @@
+/* Valara haritası: gece tabelası çerçevesinde, karanlık sayfa. */
+body:has(.city-map){background:#0d1226;color:#f2e6cf;color-scheme:dark}
+.city-map{max-width:1240px;margin:0 auto;padding:40px 32px 56px}
+.map-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:22px}
+.map-heading .eyebrow{color:#7fe9ee;letter-spacing:.2em}
+.map-heading h1{font-family:var(--heading,'Playfair Display'),serif;font-size:clamp(34px,5vw,56px);line-height:1.05;margin:6px 0 0;color:#ffe9f3}
+.map-heading h1 em{font-family:'Yellowtail',cursive;font-style:normal;color:#f06aa3;text-shadow:0 0 8px #d6377988;padding-left:.15em}
+.map-heading-side{display:flex;flex-direction:column;align-items:flex-end;gap:10px;max-width:420px;text-align:right}
+.map-heading-side p{margin:0;color:#b9bfd6;font-size:15px}
+#map-mode,.map-empty a{font:inherit;font-size:14px;color:#0d1226;background:#e6a345;border:0;border-radius:999px;padding:8px 16px;cursor:pointer;text-decoration:none}
+#map-mode:hover,.map-empty a:hover{background:#7fe9ee}
+
+.map-frame{position:relative;border:1px solid #f06aa3aa;border-radius:14px;overflow:hidden;box-shadow:0 0 0 1px #0d1226,0 0 28px #d6377933;background:#0b2140}
+.map-stage{position:relative;height:min(78vh,900px);min-height:420px;overflow:hidden;touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none;outline:none}
+.map-stage:focus-visible{box-shadow:inset 0 0 0 3px #7fe9ee}
+.map-stage.dragging{cursor:grabbing}
+.map-world{position:absolute;left:0;top:0;transform-origin:0 0;will-change:transform}
+.map-world.glide{transition:transform .4s ease}
+.map-world img{display:block;width:100%;height:100%;pointer-events:none}
+.map-districts{position:absolute;inset:0;width:100%;height:100%}
+.map-districts path{fill:transparent;stroke:transparent;stroke-width:3;cursor:pointer;transition:fill .15s,stroke .15s}
+.map-districts path:hover{fill:#7fe9ee1f;stroke:#7fe9eeaa}
+.map-districts path.is-selected{fill:#f06aa31f;stroke:#f06aa3;stroke-width:4}
+.map-pin{position:absolute;width:34px;height:34px;margin:-17px 0 0 -17px;transform:scale(var(--inv,1));border-radius:50%;border:3px solid #f06aa3;background:#160c26;color:#ffe9f3;font-size:13px;line-height:1;display:grid;place-items:center;cursor:pointer;padding:0;box-shadow:0 0 0 4px #160c2655,0 0 14px #d63779}
+.map-pin:hover,.map-pin:focus-visible,.map-pin.is-selected{border-color:#7fe9ee;box-shadow:0 0 0 4px #160c2655,0 0 18px #7fe9ee;outline:none}
+.map-pin[hidden]{display:none}
+
+.map-tools{position:absolute;right:14px;top:14px;display:flex;flex-direction:column;gap:6px}
+.map-tools button{width:40px;height:40px;border-radius:10px;border:1px solid #7fe9ee88;background:#160c26e6;color:#f2e6cf;font-size:22px;line-height:1;cursor:pointer}
+.map-tools button:hover{background:#2a1340;color:#7fe9ee}
+
+.map-card{position:absolute;left:14px;bottom:14px;width:min(340px,calc(100% - 28px));background:linear-gradient(#1b1236f2,#2a1340f2);border:1px solid #ff8a4c88;border-radius:12px;padding:16px 18px 14px;box-shadow:0 10px 30px #05020f99}
+.map-card .eyebrow{color:#ffd2a1;font-size:11px;letter-spacing:.18em;margin:0 0 4px}
+.map-card h2{font-family:var(--heading,'Playfair Display'),serif;color:#ffe9f3;font-size:24px;margin:0 0 8px}
+.map-card p{margin:0;color:#e5d8c6;font-size:15px;line-height:1.5}
+.map-card ul{list-style:none;margin:8px 0 0;padding:0}
+.map-card li button{background:none;border:0;padding:3px 0;color:#7fe9ee;font:inherit;font-size:15px;cursor:pointer;text-align:left}
+.map-card li button::before{content:'◆ ';color:#f06aa3;font-size:11px}
+.map-card-close{position:absolute;right:8px;top:6px;background:none;border:0;color:#b9bfd6;font-size:24px;cursor:pointer;line-height:1;padding:4px 8px}
+.map-card[hidden]{display:none}
+
+.map-empty{margin:14px 0 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;color:#b9bfd6}
+.map-empty p{margin:0}
+.map-empty[hidden]{display:none}
+.map-index{margin-top:30px}
+.map-index>h2{color:#7fe9ee;letter-spacing:.2em;font-size:13px}
+.map-index-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.map-index h3{font-size:14px;color:#ffd2a1;margin:0 0 6px;font-weight:600}
+.map-index ul{list-style:none;margin:0;padding:0}
+.map-index li button{background:none;border:0;padding:4px 0;color:#f2e6cf;font:inherit;font-size:15px;cursor:pointer}
+.map-index li button:hover{color:#f06aa3}
+.map-note{color:#8f96b0;font-size:13px;margin-top:18px}
+#map-spoiler{background:#1a1230;color:#f2e6cf;border:1px solid #f06aa3;border-radius:12px;max-width:440px}
+#map-spoiler::backdrop{background:#05020fcc}
+#map-spoiler button{font:inherit;padding:8px 14px;border-radius:999px;border:1px solid #f06aa3;background:none;color:#f2e6cf;cursor:pointer}
+#map-spoiler #map-spoiler-accept{background:#f06aa3;color:#160c26}
+#map-spoiler .char-spoiler-actions{display:flex;gap:10px;justify-content:flex-end;margin-top:14px}
+
+@media(max-width:650px){
+ .city-map{padding:24px 16px 40px}
+ .map-heading-side{align-items:flex-start;text-align:left}
+ .map-stage{height:70vh;min-height:380px}
+ .map-card{left:8px;right:8px;bottom:8px;width:auto}
+ .map-index-cols{grid-template-columns:1fr 1fr}
+ .map-index-cols>div:last-child{grid-column:1/-1}
+}
+@media(max-width:650px){
+ .map-frame .map-tools{top:auto;bottom:12px;right:10px}
+ .map-frame .map-tools button{width:36px;height:36px;font-size:19px}
+ .map-card:not([hidden])~.map-tools{display:none}
+}
+@media(max-width:650px){
+ .map-world .map-pin{width:26px;height:26px;margin:-13px 0 0 -13px;font-size:10px;border-width:2px}
+ .map-card h2{font-size:20px}
+ .map-card p{font-size:14px}
+}

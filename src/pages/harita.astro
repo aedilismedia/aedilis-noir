@@ -1,0 +1,63 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {book,chapters,href} from '../lib/content';
+import atlas from '../data/harita.json';
+import '../styles/map.css';
+// Valara haritası: bölge adları her zaman görünür; mekân işaretleri karakterlerle aynı kuralla, okudukça açılır.
+const firstChapter=chapters()[0];
+const sides=['Batı yakası','Doğu yakası','Ada'];
+---
+<Layout title="Valara Haritası" description={`${book.title}: Valara'nın 1986 haritası. Bölgeler ve okudukça açılan mekânlar.`}>
+<main id="main" class="city-map">
+ <header class="map-heading">
+  <div><span class="eyebrow">VALARA · 1986</span><h1>Şehrin <em>Haritası</em></h1></div>
+  <div class="map-heading-side">
+   <p id="map-scope" aria-live="polite">Bir bölgeye ya da işarete dokun.</p>
+   <button id="map-mode" type="button">Tüm mekânları göster</button>
+  </div>
+ </header>
+
+ <div class="map-frame">
+  <div class="map-stage" id="map-stage" tabindex="0" aria-label="Valara haritası. Yakınlaştırmak için artı ve eksi tuşlarını, kaydırmak için ok tuşlarını kullan.">
+   <div class="map-world" id="map-world" style={`width:${atlas.width}px;height:${atlas.height}px`}>
+    <img src={href('harita/valara-1986-1600.webp')} srcset={`${href('harita/valara-1986-1600.webp')} 1600w, ${href('harita/valara-1986-3200.webp')} 3200w`} sizes="1600px" width={atlas.width} height={atlas.height} alt="Valara'nın kuşbakışı haritası: ortada Valara Körfezi, iki yakada bölgeler, körfezde Paşa ve Fener adaları." draggable="false" decoding="async" fetchpriority="high"/>
+    <svg class="map-districts" viewBox={`0 0 ${atlas.width} ${atlas.height}`} aria-hidden="true">
+     {atlas.districts.map(d=><path d={d.d} data-district={d.name}/>)}
+    </svg>
+    {atlas.places.map(p=><button class="map-pin" type="button" id={`yer-${p.id}`} data-place={p.id} data-first={p.chapter} style={`left:${p.x}px;top:${p.y}px`} aria-label={`${p.name}, ${p.district}`} hidden><span aria-hidden="true">◆</span></button>)}
+   </div>
+  </div>
+
+   <aside class="map-card" id="map-card" aria-live="polite" hidden>
+   <button type="button" class="map-card-close" id="map-card-close" aria-label="Kapat">×</button>
+   <p class="eyebrow" id="map-card-kicker"></p>
+   <h2 id="map-card-title"></h2>
+   <p id="map-card-text"></p>
+   <ul id="map-card-list"></ul>
+  </aside>
+ <div class="map-tools" role="group" aria-label="Harita kontrolleri">
+   <button type="button" id="map-in" aria-label="Yakınlaştır">+</button>
+   <button type="button" id="map-out" aria-label="Uzaklaştır">−</button>
+   <button type="button" id="map-reset" aria-label="Haritayı sığdır">⤢</button>
+  </div>
+
+ </div>
+
+ <div class="map-empty" id="map-empty" hidden>
+  <p>Mekânlar okudukça haritada belirir. Henüz hiçbir bölüm açılmadı.</p>
+  {firstChapter&&<a href={href(`bolum/${firstChapter.slug}/`)}>Okumaya başla</a>}
+ </div>
+
+ <section class="map-index" aria-labelledby="map-index-title">
+  <h2 id="map-index-title" class="eyebrow">BÖLGELER</h2>
+  <div class="map-index-cols">
+   {sides.map(side=><div><h3>{side}</h3><ul>{atlas.districts.filter(d=>d.side===side).map(d=><li><button type="button" data-goto={d.name}>{d.name}</button></li>)}</ul></div>)}
+  </div>
+  <p class="map-note">Harita ölçeksizdir; yollar ve köprüler temsilîdir.</p>
+ </section>
+
+ <dialog id="map-spoiler" aria-labelledby="map-spoiler-title"><div class="char-spoiler-inner"><p class="eyebrow">SPOILER UYARISI</p><h2 id="map-spoiler-title">Hikayenin ilerisini görebilirsin</h2><p>Tüm mekânlar açılırsa, henüz okumadığın bölümlerde geçen yerler haritada görünür.</p><div class="char-spoiler-actions"><button id="map-spoiler-cancel" type="button">Vazgeç</button><button id="map-spoiler-accept" type="button">Yine de tümünü göster</button></div></div></dialog>
+ <script type="application/json" id="map-data" set:html={JSON.stringify({districts:atlas.districts.map(({name,side,x,y})=>({name,side,x,y})),places:atlas.places})}/>
+</main>
+<script>import '../scripts/map';</script>
+</Layout>
