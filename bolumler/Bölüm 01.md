@@ -33,7 +33,7 @@ Anahtarlar Dersina'da, yokuşun üstündeki bir apartman dairesine aitti. Daire 
 
 Memur bir şey diyecek gibi oldu, sonra kapıdaki gardiyana başıyla işaret etti.
 
-Büyük demir kapının yanındaki küçük kapı açıldığında yağmur hafiflemişti. Duvarın dibine park etmiş otomobillerden birinin farları bir kez yanıp söndü. Siyah bir Adlerheim Regent'ti. Sürücü kapısı açıldı; inen adam şemsiyesini açmakla uğraşırken Tamer onu tanıdı. Nihat kilo almıştı. Saçı alnından geriye doğru çekilmiş, bıyığı ise eskisi gibi kalın ve siyah kalmıştı. Boğazlı koyu bir kazağın üstüne, omuzları yağmurdan ıslanmış bir ceket giymişti.
+Büyük demir kapının yanındaki küçük kapı açıldığında yağmur hafiflemişti. Duvarın dibine park etmiş otomobillerden birinin farları bir kez yanıp söndü. Siyah bir Adlerheim Regent'ti. Sürücü kapısı açıldı; inen adam şemsiyesini açmakla uğraşırken Tamer onu tanıdı. Nihat kilo almıştı. Saçları alnından geriye doğru açılmış, bıyığı ise eskisi gibi kalın ve siyah kalmıştı. Boğazlı koyu bir kazağın üstüne, omuzları yağmurdan ıslanmış bir ceket giymişti.
 
 — Islanma, dedi Nihat, şemsiyeyi Tamer'in başının üstüne tutarak. Araba sıcak.
 
@@ -43,7 +43,7 @@ Sarıldılar. Nihat'ın sarılışı kısa sürdü; geri çekilip Tamer'in yüz�
 
 — Bana değil, benden önceki adama göre alınmış.
 
-Nihat arka kapıyı açtı. Tamer öne oturdu. Nihat bir an duraksadı, sonra arka kapıyı kapatıp direksiyona geçti. Kalorifer sonuna kadar açılmıştı. Tamer camı biraz indirdi; Nihat dikiz aynasından baktı ama bir şey söylemedi.
+Nihat arka kapıyı açtı. Tamer öne oturdu. Nihat bir an duraksadı, sonra arka kapıyı kapatıp direksiyona geçti. Kalorifer sonuna kadar açılmıştı. Tamer camı biraz indirdi; Nihat yan gözle baktı ama bir şey söylemedi.
 
 Yol cezaevinin çevresinde yeni açılmış sokaklardan geçiyordu. Tamer içeri girdiği yıl bu yamaçlarda sebze bahçeleri, birkaç dağınık ev ve bir tuğla ocağı vardı. Şimdi beş katlı, balkonları birbirine bakan apartmanlar sıralanmıştı. Bazılarının üst katı tamamlanmamış, demirleri çıplak bırakılmıştı. Bir otobüs durağında insanlar şemsiyelerini birbirine değdirmeden durmaya çalışıyordu. Durağın arkasındaki boş arsada, yarım kalmış bir inşaatın önüne büyük bir afiş asılmıştı: lacivert zemin üstünde beyaz bir bina çizimi ve altında "Vaat — Geleceğin yaşam alanları." Afişin bir köşesi yırtılmış, rüzgârda sallanıyordu.
 
@@ -63,7 +63,7 @@ Tamer kime oda eklendiğini sormadı. İçeri girdiğinde Nihat'ın hayatında k
 
 — Sizi mi?
 
-Nihat aynadan baktı, sonra gözünü yola çevirdi.
+Nihat ona döndü, sonra gözünü yola çevirdi.
 
 — Seni. Ağzım alışmış.
 
@@ -77,7 +77,7 @@ Tamer bunun iki ayrı cevap olduğunu düşündü. Hangisinin önce geldiğini s
 
 Fırtına Lokantası, boğazın eski kıyı yoluna bakan iki katlı taş bir yapıydı. Kapının üstündeki tabela küçüktü; adını bilmeyen önünden geçip gidebilirdi. İçeride öğle kalabalığı başlamıştı. Beyaz örtülü masalarda takım elbiseli iki adam hesap kâğıtlarına bakıyor, pencere kenarında yaşlı bir çift balıklarını sessizce ayıklıyordu. Garsonlardan biri Nihat'ı görünce başıyla selam verdi, ötekiler işlerine devam etti. Eskiden Tamer içeri girdiğinde garsonların hepsi bir an dururdu. Bugün kimse durmadı. Bunu neden sevdiğini kendisi de tam bilmiyordu.
 
-Arka taraftaki küçük odanın kapısı açıktı. Selim pencerenin önündeki masada, sırtı suya dönük oturuyordu. Tamer'i görünce peçeteyi dizinden alıp ayağa kalktı. Saçları tamamen beyazlamış, yana taranmıştı; kalın kaşları ise koyu kalmış, geniş yüzüne eskisinden sert bir ifade veriyordu. Koyu gri takımının ceketini çıkarmamıştı. Sarıldıklarında Tamer, sırtına vuran eldeki yüzüğün ağırlığını hissetti.
+Arka taraftaki küçük odanın kapısı açıktı. Selim pencerenin önündeki masada, sırtı suya dönük oturuyordu. Tamer'i görünce peçeteyi dizinden alıp ayağa kalktı. Saçları tamamen beyazlamış, yana taranmıştı; kalın kaşları ise koyu kalmış, geniş yüzüne eskisinden daha sert bir ifade veriyordu. Koyu gri takımının ceketini çıkarmamıştı. Sarıldıklarında Tamer, sırtına vuran elindeki yüzüğün ağırlığını hissetti.
 
 — Hoş geldin kardeşim. Hoş geldin.
 
@@ -113,7 +113,7 @@ Garson ızgarayı getirdi. Selim ekmeği bölüp yarısını Tamer'in tabağına
 
 — Sen.
 
-Tamer çatalını tabağın kenarına bıraktı. Bu sabah bir torba eşyayla kapıdan çıkmıştı; öğlen bir şehir teklif ediliyordu. Arada geçen süre bir yemeklik bile değildi. Bir yanı bunun ne kadar hızlı olduğunu düşündü. Öbür yanı, hızlı olmasını istedi.
+Tamer çatalını tabağın kenarına bıraktı. Bu sabah bir torba eşyayla kapıdan çıkmıştı; öğlen bir şehir teklif ediliyordu. Arada bir araba yolculuğu ve yarım bir yemek vardı. Bir yanı bunun ne kadar hızlı olduğunu düşündü. Öbür yanı, hızlı olmasını istedi.
 
 — Ne yapacağım orada?
 
@@ -151,7 +151,7 @@ Selim bardağını kaldırıp bir yudum su içti.
 
 — Seni Kemal diye bir çocuk karşılayacak. Avukat. Oradaki bazı kâğıtlarımıza bakıyor. Biraz korkaktır ama aklı yerindedir. Ne zaman korktuğunu saklayamaz, bu da işine yarar.
 
-Garson boş tabakları aldı, kahveleri sordu. Selim ikisi için sade söyledi. Bu kez doğru tahmin etmişti. Kapı kapanınca Selim sandalyesinde geriye yaslandı ve bir süre Tamer'e baktı. Yüzündeki ifade değişmişti; daha yorgun, daha yaşlı görünüyordu.
+Garson boş tabakları aldı, kahveleri sordu. Selim ikisi için sade söyledi. Bu kez doğru tahmin etmişti. Kahveler gelip garson kapıyı kapatınca Selim sandalyesinde geriye yaslandı ve bir süre Tamer'e baktı. Yüzündeki ifade değişmişti; daha yorgun, daha yaşlı görünüyordu.
 
 — On beş yıl, Tamer.
 
@@ -169,7 +169,7 @@ Selim başını salladı, sanki bir konu kapanmıştı. Sonra elini masanın üs
 
 — Babamın saati.
 
-— Biliyorum. Valara'da yenisini alırsın. Orada iş bitirince ne istersen alırsın. Bir otel belki. Belki bir gazino. Sen müziği seversin.
+— Biliyorum. Valara'da yenisini alırsın. Orada işi bitirince ne istersen alırsın. Bir otel belki. Belki bir gazino. Sen müziği seversin.
 
 — Müziği sevmekle gazino işletmek ayrı şeyler.
 
@@ -179,7 +179,7 @@ Lokantadan çıktıklarında yağmur dinmişti. Selim kapıda bir kez daha sarı
 
 — Selim Bey'in harçlığı. Dört yüz bin. Uçak yarın sabah dokuzda.
 
-Tamer parayı aldı, saymadan cebine koydu. Harçlık sözcüğü cebine parayla birlikte girdi. Dışarıda şehir yağmurdan sonra yeniden kalabalıklaşıyordu. Yaşıtlarından bazılarının bu akşam evlerine dönüp çocuklarının ödevine bakacağını düşündü. Kendisine harçlık verilmişti. Bunun için kime kızacağını bilmiyordu; o yüzden kimseye kızmadı.
+Tamer parayı aldı, saymadan cebine koydu. Dışarıda şehir yağmurdan sonra yeniden kalabalıklaşıyordu. Yaşıtlarından bazılarının bu akşam evlerine dönüp çocuklarının ödevine bakacağını düşündü. Kendisine harçlık verilmişti. Bunun için kime kızacağını bilmiyordu; o yüzden kimseye kızmadı.
 
 * * *
 
@@ -187,11 +187,11 @@ Uç Uç'un uçağı Valara'ya alçalırken körfez bir an bütünüyle göründ�
 
 Terminal alçak ve genişti. İçeride anonslar yankılanıyor, bagaj arabalarının tekerlekleri mozaik zeminde tıkırdıyordu. Kasım olmasına rağmen hava Dersina'dan bütünüyle başkaydı; cam kapılar açıldıkça içeri ılık, yakıt kokulu bir rüzgâr giriyordu. Tamer ceketini çıkarıp koluna aldı.
 
-Karşılama bölümündeki kalabalığın önünde ince yapılı, kıvırcık kahverengi saçlı genç bir adam duruyordu. Açık mavi bir gömlek, üstü küçük çapalarla desenli bir kravat takmıştı. Kalın çerçeveli gözlüğünü her yolcu çıktığında parmağıyla yukarı itiyor, yüzlere bakıyordu. Tamer'den önce çıkan gri takımlı bir adama doğru iki adım attı.
+Karşılama bölümündeki kalabalığın önünde ince yapılı, kıvırcık kahverengi saçlı genç bir adam duruyordu. Açık mavi bir gömlek giymiş, küçük çapalarla desenli bir kravat takmıştı. Kalın çerçeveli gözlüğünü her yolcu çıktığında parmağıyla yukarı itiyor, yüzlere bakıyordu. Tamer'den önce çıkan gri takımlı bir adama doğru iki adım attı.
 
 — Tamer Bey?
 
-Adam şaşkınlıkla başını salladı ve yürüyüp gitti. Genç adam geri çekildi, gözlüğünü bir kez daha itti ve o zaman Tamer'i gördü. Tamer'in yüzünde onu tanımasına yarayacak ne vardı, bilinmez; ama bu kez emin adımlarla geldi.
+Adam şaşkınlıkla başını salladı ve yürüyüp gitti. Genç adam geri çekildi, gözlüğünü bir kez daha itti ve o zaman Tamer'i gördü. Tamer, yüzünde onu neyin ele verdiğini bilmiyordu; ama genç adam bu kez emin adımlarla geldi.
 
 — Tamer Bey. Kemal Rıza. Avukatım. Yani, avukat Kemal Rıza. Hoş geldiniz. Bavulunuz bu kadar mı? Daha var mı? Yok, değil mi; öyle söylemişlerdi zaten.
 
@@ -217,11 +217,11 @@ Kemal, Tamer'in çantasını bagaj yerine arka koltuğa koydu. Tamer bunu görd�
 
 Tamer güldü. Kemal ona baktı, gülmenin iyi bir işaret olup olmadığına karar vermeye çalışır gibiydi, sonra kendisi de güldü ve motoru çalıştırdı. Motor ince, sabırlı bir uğultuyla canlandı.
 
-— Vedat Bey saat dörtte bekliyor, dedi Kemal havalimanı yoluna çıkarken. Liman'da, batı yakasında. Önce sizi otele bırakayım dedim, otel karşı tarafta, Palmiye'de. Ama gidip gelmek iki saat sürer, köprüde bu saatte ne olacağı belli olmaz. Bir de bagajla... Yani sizin de uygun görürseniz önce işi bitirelim.
+— Vedat Bey saat dörtte bekliyor, dedi Kemal havalimanı yoluna çıkarken. Limanda, batı yakasında. Önce sizi otele bırakayım dedim, otel karşı tarafta, Palmiye'de. Ama gidip gelmek iki saat sürer, köprüde bu saatte ne olacağı belli olmaz. Bir de bagajla... Yani sizin de uygun görürseniz önce işi bitirelim.
 
 — Bitirelim.
 
-Kemal rahatladı. Yol, alçak sanayi yapılarının, tel örgülü depoların ve araya sıkışmış küçük kahvehanelerin arasından ilerliyordu. Bir fabrikanın önünde mavi tulumlu işçiler duvar dibine oturmuş, gazete kâğıdına sarılı ekmeklerini yiyordu. Kırmızı siyah bir futbol bayrağı bir balkondan sarkıyordu. Tamer, kıyıya yaklaştıkça karşı yakanın beyaz cephelerinin suyun öbür tarafında bir sıra diş gibi dizildiğini gördü. Kemal parmağıyla gösterdi.
+Kemal rahatladı. Yol, alçak sanayi yapılarının, tel örgülü depoların ve araya sıkışmış küçük kahvehanelerin arasından ilerliyordu. Bir fabrikanın önünde mavi tulumlu işçiler duvar dibine oturmuş, gazete kâğıdına sarılı ekmeklerini yiyordu. Kırmızı siyah bir futbol bayrağı bir balkondan sarkıyordu. Tamer, kıyıya yaklaştıkça karşı yakanın beyaz cephelerinin bir sıra diş gibi dizildiğini gördü. Kemal parmağıyla gösterdi.
 
 — Oteliniz orada. Şu iki yüksek binanın arasında bir yerde. Buradan görünmez.
 
@@ -229,7 +229,7 @@ Kemal rahatladı. Yol, alçak sanayi yapılarının, tel örgülü depoların ve
 
 — Ben de orada. Yani o tarafta. Büroya yakın olsun diye. Ama kira bana uzak.
 
-Kemal bunu söylemeye alışkın gibiydi; yine de söyledikten sonra Tamer'e baktı, şakanın tutup tutmadığını görmek için. Tamer başını salladı. Bu adam ne söylediğinin karşısındakinde nereye düştüğünü ölçmeden duramıyordu. Bunun yorucu olup olmadığını merak etti.
+Kemal bunu söylemeye alışkın gibiydi; yine de söyledikten sonra Tamer'e baktı, şakanın tutup tutmadığını görmek için. Tamer başını salladı. Bu adam söylediğinin karşısındakini nasıl etkilediğini ölçmeden duramıyordu. Bunun yorucu olup olmadığını merak etti.
 
 Vakit erkendi. Kemal limanın girişine yakın bir çay ocağının önünde durdu, ikisi için birer tost aldı. Arabanın içinde, kâğıda sarılı tostları dizlerinin üstünde tutarak yediler. Kemal her lokmadan sonra dikiz aynasına bakıyordu. Bir kamyon arkalarına park edince lokması boğazında kaldı. Kamyonun şoförü inip çay ocağına girdi; Kemal öksürdü, su istemediğini söyledi, sonra su istedi.
 
@@ -259,7 +259,7 @@ Kemal arabayı kapının yanına, duvara yakın park etti. Tamer indi. İçeride
 
 — Vedat abi içeride.
 
-Depo, dışarıdan göründüğünden yüksekti. Tavan kirişlerinden sarkan sanayi lambalarının yarısı yanıyordu. Duvar diplerinde boş paletler, rulo halinde halatlar, kullanılmayan bir vinç kancası duruyordu. Ortada, brandası yarıya kadar sıyrılmış bir Takamori Kervan kamyon vardı. Kasasında üst üste dizilmiş ahşap sandıklar görünüyordu. Kamyonun yanındaki uzun tahta masada bir termos, birkaç çay bardağı ve bir sevk defteri açık duruyordu.
+Depo, dışarıdan göründüğünden yüksekti. Tavan kirişlerinden sarkan sanayi lambalarının yarısı yanıyordu. Duvar diplerinde boş paletler, rulo halinde halatlar, kullanılmayan bir vinç kancası duruyordu. Ortada, brandası yarıya kadar sıyrılmış bir Takamori Kervan kamyonu vardı. Kasasında üst üste dizilmiş ahşap sandıklar görünüyordu. Kamyonun yanındaki uzun tahta masada bir termos, birkaç çay bardağı ve bir sevk defteri açık duruyordu.
 
 Vedat masanın başındaydı. Uzun boylu, iri kemikli bir adamdı; koyu saçları kulaklarının altına inen kalın favorilerle birleşiyordu. Beyaz gömleğinin yakasından ince bir altın zincir görünüyordu. Tamer'i görünce defteri kapatmadan doğruldu, elini uzattı.
 
@@ -315,19 +315,19 @@ Vedat başını kaldırdı.
 
 — Kimin arabası?
 
-Cevap gelmedi. Dışarıda bir motor yükselen bir sesle yaklaştı, tekerlekler çakılın üstünde kaydı. Sürgülü kapı bir çarpmayla iyice açıldı ve içeri beyaz bir minibüs girdi. Tamer yan tarafındaki yazının üstüne kabaca beyaz boya çekildiğini, harflerin boyanın altından gölge gibi göründüğünü fark etti; sonra minibüsün sürgülü kapısı açıldı ve ilk patlamayı duydu.
+Cevap gelmedi. Dışarıda bir motor yükselen bir sesle yaklaştı, tekerlekler çakılın üstünde kaydı. Sürgülü kapı bir çarpmayla iyice açıldı ve içeri beyaz bir minibüs girdi. Tamer yan tarafındaki yazının üstüne kabaca beyaz boya çekildiğini, harflerin boyanın altından gölge gibi göründüğünü fark etti; sonra minibüsün yan kapısı açıldı ve ilk patlamayı duydu.
 
 Bir an sesin nereden geldiğini anlayamadı. Depo yankıyı büyütüyor, her patlamayı iki kez duyuruyordu. Erol kapının yanında yere düştü, sonra emekleyerek bir palet yığınının arkasına girdi. Minibüsten üç, belki dört adam inmişti; yüzlerinin alt yarısına koyu bezler bağlamışlardı. Tamer, Kemal'in kolunu yakalayıp onu masanın arkasındaki palet yığınına doğru çekti. Kemal ayağını masanın bacağına takıp düştü, gözlüğü fırladı. Tamer onu yakasından tutup yığının arkasına sürükledi.
 
 Kır saçlı adam masanın üstündeki paraları bırakıp kamyonun arkasına koştu. Vedat ise kamyonun kabinine doğru gidiyordu. Bir şey söylüyordu, belki adamına, belki gelenlere; Tamer sözleri duyamadı. Kabinin kapısını açtığı anda iki patlama daha oldu. Vedat'ın bir eli kapının çerçevesinde kaldı, sonra kayıp düştü.
 
-Kır saçlı adam kamyonun arkasından birkaç kez ateş etti. Gelenlerden biri bağırdı. Ardından adam kolunu tutarak yan kapıya doğru geri çekildi ve gözden kayboldu. Tamer palet yığınının aralığından baktı. Adamlardan biri masaya gidip paraları kucak dolusu çantalara geri tıkıyordu; bir destesi yere düştü, alıp onu da attı. Öbürü Vedat'ın açtığı kabine çıktı. Kamyonun motoru öksürdü, çalıştı. Brandası sallanarak geri geri kapıya yöneldi, minibüs de ardından. Kırk saniye mi, bir dakika mı geçmişti, Tamer bilmiyordu. Motor sesleri rıhtım tarafına doğru uzaklaştı.
+Kır saçlı adam kamyonun arkasından birkaç kez ateş etti. Gelenlerden biri bağırdı. Ardından kır saçlı adam kolunu tutarak yan kapıya doğru geri çekildi ve gözden kayboldu. Tamer palet yığınının aralığından baktı. Adamlardan biri masaya gidip paraları kucak dolusu çantalara geri tıkıyordu; bir destesi yere düştü, alıp onu da attı. Öbürü Vedat'ın açtığı kabine çıktı. Kamyonun motoru öksürdü, çalıştı. Kamyon, brandası sallanarak geri geri kapıya yöneldi, minibüs de ardından. Kırk saniye mi, bir dakika mı geçmişti, Tamer bilmiyordu. Motor sesleri rıhtım tarafına doğru uzaklaştı.
 
 Depo birden sessizleşti. Tavandaki lambalardan biri cızırdıyordu. Kemal dizlerinin üstünde, eliyle yerdeki tozun içinde gözlüğünü arıyordu. Tamer gözlüğü bulup ona uzattı; sol camı boydan boya çatlamıştı. Kemal gözlüğü taktı ve çatlağın arkasından Tamer'e baktı.
 
 — Siz... siz iyi misiniz?
 
-Tamer cevap vermeden kalktı. Kamyonun durduğu yerde beton zemine yağ damlamıştı. Vedat o yağ izinin birkaç adım ötesinde, yüzükoyun yatıyordu. Tamer yanına çömeldi, omzundan tutup çevirdi. Vedat'ın gözleri açıktı. Beyaz gömleğinin bir yanı koyulaşmış, koyuluk kumaşta yayılmaya devam ediyordu. Göğsü bir kez kalktı, sonra kalkmadı. Tamer bir süre elini adamın omzunda tuttu. Bir şey yapılması gerektiğini biliyordu, ne olduğunu bilmiyordu. Elini çektiğinde gömleğinin kolu ıslanmıştı.
+Tamer cevap vermeden kalktı. Kamyonun durduğu yerde beton zemine yağ damlamıştı. Vedat o yağ izinin birkaç adım ötesinde, yüzükoyun yatıyordu. Tamer yanına çömeldi, omzundan tutup çevirdi. Vedat'ın gözleri açıktı. Beyaz gömleğinin bir yanı koyulaşmış, koyuluk kumaşta yayılmaya devam ediyordu. Göğsü bir kez kalktı, sonra kalkmadı. Tamer bir süre elini adamın omzunda tuttu. Bir şey yapılması gerektiğini biliyordu, ne olduğunu bilmiyordu. Elini çektiğinde kendi gömleğinin kolu ıslanmıştı.
 
 Erol palet yığınının arkasından çıktı. Yüzü bembeyazdı. Vedat'a baktı, ağzını açtı, bir şey söylemedi ve yan kapıdan koşarak çıktı.
 
@@ -345,7 +345,7 @@ Kemal bindi. Kontak anahtarını iki kere düşürdü, üçüncüsünde taktı. 
 
 * * *
 
-Köprüyü geçene kadar ikisi de konuşmadı. Arka camın kırık kenarından içeri giren rüzgâr, Kemal'in arka koltuğa bıraktığı gazeteyi hışırdatıyordu. Kemal iki eliyle direksiyonu tutuyor, çatlak camın ardından yolu görmek için başını hafifçe sağa yatırıyordu. Kırmızı ışıkta durduklarında elleri titremeye başladı. Işık yeşile döndüğünde titreme durmadı ama araba yine de ilerledi.
+Köprüyü geçene kadar ikisi de konuşmadı. Arka camın kırık kenarından içeri giren rüzgâr, Kemal'in arka koltuğa bıraktığı gazeteyi hışırdatıyordu. Kemal iki eliyle direksiyonu tutuyor, gözlüğünün çatlak camının ardından yolu görmek için başını hafifçe sağa yatırıyordu. Kırmızı ışıkta durduklarında elleri titremeye başladı. Işık yeşile döndüğünde titreme durmadı ama araba yine de ilerledi.
 
 — Polise gitmemiz lazım, dedi sonunda.
 
@@ -377,9 +377,9 @@ Kemal cevap vermedi.
 
 — O zaman onu da yarın düşünürüz.
 
-Kemal başını salladı ama bu konuyu yarına bırakabilecek biri gibi görünmüyordu. Sahil yoluna çıktıklarında güneş batmak üzereydi. Palmiyelerin gölgeleri yolun üstüne uzanmış, kıyıdaki otellerin ışıkları birer birer yanmaya başlamıştı. Kaldırımlarda insanlar akşam yürüyüşüne çıkmıştı; bir kadın çocuğunun elinden tutmuş, bir dondurmacının önünde bekliyordu. Az önce yaşadıklarının bu kaldırımla aynı şehirde olduğuna inanmak güçtü. Tamer bunun böyle olmasını garip bulmadı. Cezaevinin avlusunda da birinin başına bir şey geldiği gün öbür avluda biri tavla oynamaya devam ederdi.
+Kemal başını salladı ama bu konuyu yarına bırakabilecek biri gibi görünmüyordu. Sahil yoluna çıktıklarında güneş batmak üzereydi. Palmiyelerin gölgeleri yolun üstüne uzanmış, kıyıdaki otellerin ışıkları birer birer yanmaya başlamıştı. Kaldırımlarda insanlar akşam yürüyüşüne çıkmıştı; bir kadın çocuğunun elinden tutmuş, bir dondurmacının önünde bekliyordu. Az önce yaşadıklarıyla bu kaldırım aynı şehirdeydi. Tamer bunu garip bulmadı. Cezaevinin avlusunda da birinin başına bir şey geldiği gün öbür avluda biri tavla oynamaya devam ederdi.
 
-Palmiye Oteli sahil yoluna yakın, dört katlı, kremi güneşten solmuş bir binaydı. Dar balkonlarının bazılarında turuncu tenteler vardı; birkaçı katlanmış, birkaçı yırtılmıştı. Girişin üstünde pembe neonla çizilmiş bir palmiye yanıyordu. Neon ağacın gövdesindeki ışıklardan biri ötekilerden sönüktü; uzaktan bakınca palmiye hafifçe eğilmiş gibi görünüyordu.
+Palmiye Oteli sahil yoluna yakın, dört katlı, krem sıvası güneşten solmuş bir binaydı. Dar balkonlarının bazılarında turuncu tenteler vardı; birkaçı katlanmış, birkaçı yırtılmıştı. Girişin üstünde pembe neonla çizilmiş bir palmiye yanıyordu. Neon ağacın gövdesindeki ışıklardan biri ötekilerden sönüktü; uzaktan bakınca palmiye hafifçe eğilmiş gibi görünüyordu.
 
 Kemal arabayı kapının önüne değil, köşeyi dönüp yan sokağa park etti. Kırık camı otelin girişinden görülmesin istemişti. Tamer, çantasını arka koltuktaki cam kırıntılarının arasından aldı.
 
@@ -391,7 +391,7 @@ Resepsiyondaki adam ellili yaşlarındaydı, gömleğinin üstüne yünlü bir y
 
 — Üç bin lira efendim. Kahvaltı sabah yedi buçukta başlıyor.
 
-Tamer cebinden Selim'in tomarını çıkardı ve ilk kez lastiği çıkardı. Üç bin lirayı ayırırken resepsiyonistin gözünün tomara kaydığını, sonra hemen kayıt defterine döndüğünü gördü. Paranın geri kalanını yeniden cebine koydu.
+Tamer cebinden Selim'in tomarını çıkardı ve lastiğini ilk kez açtı. Üç bin lirayı ayırırken resepsiyonistin gözünün tomara kaydığını, sonra hemen kayıt defterine döndüğünü gördü. Paranın geri kalanını yeniden cebine koydu.
 
 Kemal onunla merdivenin başına kadar geldi.
 
@@ -443,11 +443,11 @@ Yine bir sessizlik oldu.
 
 — O da iyi. Arabasının camı kırıldı.
 
-Tamer, Selim'in sorularının sırasını aklında tuttu. Önce para, sonra kendisi, sonra avukat. Sonra cam. Bunun bir anlamı olup olmadığına karar vermedi; yalnızca sırayı aklına yazdı.
+Tamer, Selim'in sorularının sırasını aklında tuttu. Önce para, sonra kendisi, sonra avukat. Bunun bir anlamı olup olmadığına karar vermedi; yalnızca sırayı aklına yazdı.
 
 — Saati kim biliyordu? dedi Selim.
 
-— Ben dün öğlen sizden öğrendim. Saatini bugün Kemal'den. Vedat'ın tarafını bilmiyorum.
+— Günü dün öğlen sizden öğrendim. Saatini bugün Kemal'den. Vedat'ın tarafını bilmiyorum.
 
 — Kemal'den mi?
 
@@ -491,23 +491,23 @@ Kemal ertesi sabah dokuzu kırk geçe geldi. Valmont'un arka camının yerine ş
 
 — Gözlüğün?
 
-— Bu öğlen. Gözlükçü bana daha çok güldü.
+— Bu öğlen. Gözlükçü sanayidekilerden de çok güldü.
 
-Elinde katlanmış bir gazete vardı. Körfezin Sesi'nin sabah baskısıydı. Kemal üçüncü sayfayı açıp Tamer'e uzattı. Haber sayfanın alt köşesinde, bir belediye ihalesiyle bir trafik kazasının arasına sıkışmıştı. Başlık "Karanlık Liman'da silahlı saldırı: Bir ölü, bir yaralı" diyordu. Metin kısaydı. Dün öğleden sonra bir depoda çıkan silahlı çatışmada V.V. baş harfleriyle tanınan otuz yedi yaşındaki bir kişinin hayatını kaybettiği, kolundan yaralanan bir başka kişinin hastanede tedavi altına alındığı, olayın soruşturulduğu yazıyordu. Saldırganların sayısı ve kimlikleri hakkında bilgi yoktu. Bir krem otomobilden, kırık bir camdan söz edilmiyordu.
+Elinde katlanmış bir gazete vardı. Körfezin Sesi'nin sabah baskısıydı. Kemal üçüncü sayfayı açıp Tamer'e uzattı. Haber sayfanın alt köşesinde, bir belediye ihalesiyle bir trafik kazasının arasına sıkışmıştı. Başlık "Karanlık Liman'da silahlı saldırı: Bir ölü, bir yaralı" diyordu. Metin kısaydı. Dün öğleden sonra bir depoda çıkan silahlı çatışmada V.V. olarak açıklanan otuz yedi yaşındaki bir kişinin hayatını kaybettiği, kolundan yaralanan bir başka kişinin hastanede tedavi altına alındığı, olayın soruşturulduğu yazıyordu. Saldırganların sayısı ve kimlikleri hakkında bilgi yoktu. Bir krem otomobilden, kırık bir camdan söz edilmiyordu.
 
 Tamer gazeteyi katladı.
 
-— Yaralı adam konuşursa ne olur? dedi Kemal.
+— Polis Vedat Bey'in ceplerine bakarsa ne olur? dedi Kemal.
 
-— Bizi tanımıyor.
+— Bizi tanımıyordu.
 
-— Beni tanıyor. Ona kartımı verdim.
+— Beni tanıyordu. Ona kartımı verdim.
 
 Tamer başını gazeteden kaldırdı.
 
 — Kartını mı?
 
-— Siz kamyona bakarken. Çay doldurdu, avukat olduğumu sordu. Ben de... alışkanlık. Birisi avukat olduğumu sorunca kartımı veriyorum. Altı yıldır öyle yapıyorum.
+— Siz sandıkları sayarken. Çay doldururken avukat olduğumu sordu. Kartım şimdi Vedat Bey'in cebinde. Ben de... alışkanlık. Birisi avukat olduğumu sorunca kartımı veriyorum. Altı yıldır öyle yapıyorum.
 
 Tamer bir süre ona baktı. Kemal çatlak camın arkasından gözünü kaçırmadı. Bu adamın korkusu her yanından belli oluyordu, ama kaçmamıştı da. Dün de kaçmamıştı.
 
@@ -519,7 +519,7 @@ Tamer bir süre ona baktı. Kemal çatlak camın arkasından gözünü kaçırma
 
 Kemal güldü mü, öksürdü mü, belli olmadı.
 
-Tamer'in kolundaki leke yıkansa da gömlekte kalmıştı. Kemal'in önerisiyle Kordon'a indiler. Şık Erkek Giyim, bir bankanın ve bir pastanenin arasında, geniş vitrinli bir dükkândı. Vitrindeki krem rengi mankenlerden birinin üstünde açık yakalı, turkuaz bir gömlek vardı. Tamer içeri girmeden önce bir süre ona baktı. Kemal de baktı, sonra Tamer'e, sonra yeniden gömleğe.
+Gömleğin kolundaki leke yıkansa da çıkmamıştı. Kemal'in önerisiyle Kordon'a indiler. Şık Erkek Giyim, bir bankanın ve bir pastanenin arasında, geniş vitrinli bir dükkândı. Vitrindeki krem rengi mankenlerden birinin üstünde açık yakalı, turkuaz bir gömlek vardı. Tamer içeri girmeden önce bir süre ona baktı. Kemal de baktı, sonra Tamer'e, sonra yeniden gömleğe.
 
 — Size yakışır, dedi. Yani, eğer renkli giyiyorsanız.
 
@@ -527,7 +527,7 @@ Tamer'in kolundaki leke yıkansa da gömlekte kalmıştı. Kemal'in önerisiyle 
 
 İçerisi yeni kumaş ve ütü buharı kokuyordu. Askılar arasında bir terzi, bir müşterinin pantolon paçasına toplu iğne batırıyordu. Satıcı, kır bıyıklı, gözlüklerini zincirle boynuna asmış bir adamdı. Tamer'in ölçüsünü göz kararıyla aldı ve yanılmadı. Gömleğin yanına krem rengi bir kumaş pantolon önerdi; Tamer kabul etti.
 
-Kabindeki tam boy aynanın karşısında Tamer gömleğin düğmelerini ilikledi, en üsttekini açık bıraktı. İçeride aynaya pek bakmamıştı; tıraş olurken elinin küçük bir aynada çizdiği yüzü tanıyordu, ama bütününü uzun süredir görmemişti. Şakaklarındaki beyazlar sandığından geniş, sol kaşının üstündeki ince iz sandığından soluktu. Omuzları hâlâ dikti. Gömlek ona oturuyordu. Lacivert takımdan daha çok ona benziyordu. Bunun ne demek olduğunu düşünmeden perdeyi çekti.
+Kabindeki tam boy aynanın karşısında Tamer gömleğin düğmelerini ilikledi, en üsttekini açık bıraktı. İçeride aynaya pek bakmamıştı; tıraş olurken küçük bir aynada parça parça gördüğü yüzü tanıyordu, ama bütününü uzun süredir görmemişti. Şakaklarındaki beyazlar sandığından geniş, sol kaşının üstündeki ince iz sandığından soluktu. Omuzları hâlâ dikti. Gömlek ona oturuyordu. Lacivert takımdan daha çok ona benziyordu. Bunun ne demek olduğunu düşünmeden perdeyi çekti.
 
 Satıcı fiyatı söylerken sesini biraz alçalttı.
 
@@ -551,9 +551,9 @@ Marina, akşamın yedisinde sakin değildi ama sessizdi. İskeleler boyunca bağ
 
 — Naylonlu arabayla davete gidilmez, Tamer Bey. Davete giden adam naylonlu arabadan inerse herkes arabayı konuşur.
 
-Cevdet Arslan'ın yatı iskelenin sonunda bağlıydı. Beyaz gövdesi akşam ışığında mavimsi görünüyordu; kıç tarafındaki açık güverte bir tenteyle örtülmüş, tentenin kenarlarına küçük lambalar asılmıştı. Vernikli ahşap küpeşteler lambaların ışığını yansıtıyordu. Güvertede otuz kadar misafir vardı. Bir köşede piyano, kontrbas ve saksafondan oluşan üç kişilik bir topluluk, konuşmaları bölmeyecek kadar alçak çalıyordu. Beyaz ceketli garsonlar tepsilerle aralarda dolaşıyordu.
+Cevdet Arslan'ın yatı iskelenin sonunda bağlıydı. Beyaz gövdesi iskele lambalarının altında mavimsi görünüyordu; kıç tarafındaki açık güverte bir tenteyle örtülmüş, tentenin kenarlarına küçük lambalar asılmıştı. Vernikli ahşap küpeşteler lambaların ışığını yansıtıyordu. Güvertede otuz kadar misafir vardı. Bir köşede piyano, kontrbas ve saksafondan oluşan üç kişilik bir topluluk, konuşmaları bölmeyecek kadar alçak çalıyordu. Beyaz ceketli garsonlar tepsilerle aralarda dolaşıyordu.
 
-Tamer iskele tahtasına adım atarken teknenin hafif salınımını ayaklarında hissetti. Kapıda bekleyen genç bir mürettebat adını sordu. Tamer söyledi. Genç adam bir listeye bakmadı; yalnızca başını sallayıp onu içeri aldı.
+Tamer iskele tahtasına adım atarken teknenin hafif salınımını ayaklarında hissetti. Kapıda bekleyen mürettebattan genç biri adını sordu. Tamer söyledi. Genç adam bir listeye bakmadı; yalnızca başını sallayıp onu içeri aldı.
 
 Cevdet onu güvertenin ortasında karşıladı. Uzun boylu, dimdik duran bir adamdı; gümüş rengi saçları özenle taranmış, lacivert blazerinin cebinde açık renk bir mendil vardı. Gri mavi gözleri, birini süzerken bile kibar kalmayı beceriyordu.
 
@@ -581,7 +581,7 @@ Cevdet kadehini masaya bıraktı.
 
 — Kanıt istemiyorum. Liste istiyorum. Saati kimin bildiğini.
 
-— Benim listem kısa, dedi Cevdet. Ve beni içermiyor. Ama bunu her listedeki herkes söyler.
+— Benim listem kısa, dedi Cevdet. Ve beni içermiyor. Ama listedeki herkes bunu söyler.
 
 Tamer kadehten küçük bir yudum aldı. Viski iyiydi; bir an bunu düşündüğü için kendine şaşırdı.
 
@@ -595,7 +595,7 @@ Cevdet hafifçe gülümsedi.
 
 — Selim Bey benim adıma çok şey söyler. Çoğu zaman haksız da sayılmaz.
 
-Salonun penceresinden güverte görünüyordu. Kıç tarafında bir hareketlenme oldu. Kısa boylu, iri gövdeli, boynu omuzlarına gömülmüş gibi duran bir adam bir garsonun koluna dokunmuş, elindeki kadehi göstererek bir şey anlatıyordu. Beyaz bir takım giymişti; jöleli siyah saçları lambaların altında parlıyordu. Sesi camın arkasından bile duyuluyordu, ama kelimeler seçilmiyordu. Garson başını sallayıp kadehi aldı. Adam yanındaki iki misafire dönüp güldü; bu kez sesi daha da yüksekti. Parmaklarındaki yüzükler, el kol hareketleriyle birlikte ışıkta parlıyordu.
+Salonun penceresinden güverte görünüyordu. Kıç tarafında bir hareketlenme oldu. Kısa boylu, iri gövdeli, boynu omuzlarına gömülmüş gibi duran bir adam bir garsonun koluna dokunmuş, elindeki kadehi göstererek bir şey anlatıyordu. Beyaz bir takım giymişti; jöleli siyah saçları lambaların altında parlıyordu. Sesi camın arkasından bile duyuluyordu, ama kelimeler seçilmiyordu. Garson başını sallayıp kadehi aldı. Adam yanındaki iki misafire dönüp güldü; bu kez sesi daha da yüksekti. Parmaklarındaki yüzükler, el kol hareketleriyle birlikte ışığı yakalıyordu.
 
 — Rıfat Duman, dedi Cevdet, Tamer'in nereye baktığını görünce. Gazinolar Caddesi'ndeki yerlerin bir kısmı onundur. Bir kısmının da onun olduğunu söyler. Hangisinin hangisi olduğunu ben de tam bilmem.
 
@@ -603,7 +603,7 @@ Salonun penceresinden güverte görünüyordu. Kıç tarafında bir hareketlenme
 
 — Buzu, sanırım. Rıfat Bey'in buzla ilgili kesin fikirleri vardır.
 
-Rıfat bir süre daha misafirlerin arasında dolaştı. Birinin omzuna vurdu, birinin eşinin elini öptü, iskeleye doğru bakarak saatine baktı. Sonra Cevdet'i salonun penceresinde görüp elini kaldırdı. Cevdet de elini kaldırdı. Rıfat, yanında iki adamla iskeleye yürüdü ve tekneden indi. Tamer onun yanındaki adamlardan birinin kapıdaki gence bir şey söylediğini, gencin başını salladığını gördü. Rıfat geriye bakmadı.
+Rıfat bir süre daha misafirlerin arasında dolaştı. Birinin omzuna vurdu, birinin eşinin elini öptü, iskeleye doğru dönüp saatine göz attı. Sonra Cevdet'i salonun penceresinde görüp elini kaldırdı. Cevdet de elini kaldırdı. Rıfat, yanında iki adamla iskeleye yürüdü ve tekneden indi. Tamer onun yanındaki adamlardan birinin kapıdaki gence bir şey söylediğini, gencin başını salladığını gördü. Rıfat geriye bakmadı.
 
 — Bu akşam programı varmış, dedi Cevdet. Her akşam programı vardır.
 
@@ -649,7 +649,7 @@ Melis güldü.
 
 — Müzisyen misiniz?
 
-— Şarkı söylüyorum. Yani söylemeye çalışıyorum. Söyleyecek bir yer bulmaya çalışıyorum. Bu daha zor kısmı.
+— Şarkı söylüyorum. Yani söylemeye çalışıyorum. Söyleyecek bir yer bulmaya çalışıyorum. Bu, işin daha zor kısmı.
 
 — Babanızın bu kadar misafiri varken mi?
 
@@ -701,7 +701,7 @@ Melis bir dakika daha oturdu. Saksafon parçayı bitirdi; Tamer bu kez sonun ger
 
 * * *
 
-Otele döndüklerinde saat yarımı geçmişti. Kemal yol boyunca bir şey sormadı; yalnızca köprünün başında, naylon rüzgârla yine şişince, cam sanayiden gelene kadar arka koltuğa kimseyi oturtmayacağını söyledi. Tamer onu yan sokakta bırakıp otele yürüdü.
+Otele döndüklerinde gece yarısını geçmişti. Kemal yol boyunca bir şey sormadı; yalnızca köprünün başında, naylon rüzgârla yine şişince, cam sanayiden gelene kadar arka koltuğa kimseyi oturtmayacağını söyledi. Tamer onu yan sokakta bırakıp otele yürüdü.
 
 Resepsiyonda gece nöbetçisi vardı; genç, bıyıklı, gözleri uykudan şişmiş bir çocuk. Tamer anahtarını isteyince panodan aldı ve uzatmadan önce bankonun altına eğildi.
 
@@ -731,6 +731,6 @@ Nöbetçi düşündü.
 
 Tamer kâğıdı katladı. Nöbetçiye teşekkür edip yukarı çıktı.
 
-Odada ışığı yakmadan pencereye gitti. Neon palmiyenin sönük ışığı hâlâ yanıp sönüyordu. Pervazdaki eski gömlek kurumuştu; lekenin izi karanlıkta görünmüyordu. Tamer cüzdanını çıkardı. Kâğıdı, içerinin kapısından çıkarken memurun iki çaya bile yetmez dediği eski banknotların arasına koydu.
+Odada ışığı yakmadan pencereye gitti. Neon palmiyenin sönük ışığı hâlâ yanıp sönüyordu. Pervazdaki eski gömlek kurumuştu; lekenin izi karanlıkta görünmüyordu. Tamer cüzdanını çıkardı. Kâğıdı, cezaevindeki memurun iki çaylık dediği eski banknotların arasına koydu.
 
-Yatağa oturup saatini çıkardı. Kurma kolunu çevirdi; çark bu sabahkinden daha kolay döndü. Saati komodinin üstüne, telefonun yanına bıraktı. Odada saniye ibresinin sesinden başka ses yoktu.
+Yatağa oturup saatini çıkardı. Kurma kolunu çevirdi; çark cezaevindeki o sabahkinden daha kolay döndü. Saati komodinin üstüne, telefonun yanına bıraktı. Odada saniye ibresinin sesinden başka ses yoktu.
