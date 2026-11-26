@@ -1,7 +1,7 @@
 # main dalına her push'ta siteyi derler ve Hostinger'a FTP ile yükler.
 # Yalnızca değişen dosyalar gönderilir (ilk yükleme hariç).
 # Gerekli GitHub Secrets: FTP_SERVER, FTP_USERNAME, FTP_PASSWORD
-# FTP hesabı ana dizinde (home) açılır; sitenin klasörü aşağıda sabittir (FTP_DIR değişkeni artık kullanılmaz).
+# FTP hesabı (u986077051.aedilisnoir) doğrudan public_html/aedilisnoir klasöründe açılır; bu yüzden server-dir ./ olur.
 name: Hostinger'a yayınla
 
 on:
@@ -42,4 +42,4 @@ jobs:
           password: ${{ env.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./dist/
-          server-dir: domains/aedilismedia.com/public_html/aedilisnoir/
+          server-dir: ./

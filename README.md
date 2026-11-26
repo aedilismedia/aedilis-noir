@@ -90,7 +90,7 @@ Bölümler sırayla açılır. Yazar önizlemesi için adrese `?kilitleri-ac` ek
 
 ## Yayın
 
-`.github/workflows/hostinger-deploy.yml` her push'ta `npm ci && npm run build` çalıştırır ve `dist/` klasörünü FTPS ile `domains/aedilismedia.com/public_html/aedilisnoir/` klasörüne yükler. Gerekli GitHub Secrets: `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD` (Kut Mührü reposundakilerin aynısı). Secret yoksa derleme yine yapılır, yükleme atlanır.
+`.github/workflows/hostinger-deploy.yml` her push'ta `npm ci && npm run build` çalıştırır ve `dist/` klasörünü FTPS ile yükler. FTP hesabı yalnızca `public_html/aedilisnoir` klasörüne açılan ayrı bir hesaptır (hPanel → FTP Hesapları). Gerekli GitHub Secrets: `FTP_SERVER`, `FTP_USERNAME`, `FTP_PASSWORD`. Secret yoksa derleme yine yapılır, yükleme atlanır.
 
 Bir kerelik Hostinger ayarı: **Domains → Subdomains** altında `aedilisnoir.aedilismedia.com` alt alan adını oluştur ve kök klasörünü `public_html/aedilisnoir` yap.
 
