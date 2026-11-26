@@ -1,0 +1,11 @@
+/* İç sayfalar: üst bar gece tabelası gibi. Okuma metni sakin kalır, ışık yalnızca çerçevede. */
+.site-header,.reader .site-header{background:#0d1226;color:#f2e6cf;border-bottom:1px solid #f06aa3;box-shadow:0 1px 14px #d6377955}
+.site-header .brand{font-family:'Yellowtail',cursive;font-size:32px;color:#ffe9f3;text-shadow:0 0 6px #f06aa3,0 0 16px #d63779}
+.site-header .brand .seal{color:#7fe9ee}
+.site-header a:hover{color:#7fe9ee}
+.site-header a[aria-current=page]{text-decoration-color:#f06aa3}
+.site-header .settings-open,.site-header .mobile-menu summary{color:#f2e6cf}
+.reading-progress #progress-fill{background:linear-gradient(90deg,#25b9c1,#d63779);box-shadow:0 0 8px #d63779}
+.large-number{font-family:'Monoton',var(--heading);opacity:.8}
+.site-footer>a:first-child{font-family:'Yellowtail',cursive;font-size:28px;color:var(--accent)}
+@media(max-width:650px){.site-header .brand{font-size:27px}}

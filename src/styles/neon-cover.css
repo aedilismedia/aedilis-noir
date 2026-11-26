@@ -1,0 +1,59 @@
+/* Kapak: 80'ler neon gecesi. Gün batımı, körfez ufku, palmiye siluetleri ve neon tabela yazısı.
+   Sahne src/pages/index.astro içindeki .neon-scene SVG'sidir; burası yalnızca katmanları ve ışığı düzenler. */
+.game-cover{background:#0d1226}
+.neon-scene{position:absolute;inset:0;width:100%;height:100%;z-index:0;pointer-events:none}
+.neon-scene .sun{filter:drop-shadow(0 0 40px #f0613f88)}
+.neon-scene .horizon{filter:drop-shadow(0 0 6px #f06aa3)}
+.neon-scene .stars circle{animation:neon-twinkle 4s ease-in-out infinite}
+.neon-scene .stars circle:nth-child(2n){animation-delay:1.6s}
+.neon-scene .stars circle:nth-child(3n){animation-delay:2.7s}
+.neon-scene .sea-lines path{animation:neon-shimmer 5s ease-in-out infinite}
+.neon-scene .sea-lines path:nth-child(2){animation-delay:.8s}.neon-scene .sea-lines path:nth-child(3){animation-delay:1.6s}.neon-scene .sea-lines path:nth-child(4){animation-delay:2.4s}
+@keyframes neon-twinkle{0%,100%{opacity:.9}50%{opacity:.25}}
+@keyframes neon-shimmer{0%,100%{opacity:1}50%{opacity:.45}}
+
+/* Yazının arkasında okunabilirlik için yumuşak karanlık */
+.game-cover .cover-content::before{content:'';position:absolute;inset:-60px -90px;z-index:-1;background:radial-gradient(closest-side,#0d1226e6 0%,#0d1226b3 55%,transparent 100%);pointer-events:none}
+.game-cover .cover-frame{z-index:1;border-color:#25b9c133}
+.game-cover .cover-frame::before,.game-cover .cover-frame::after{color:#25b9c1;background:transparent;text-shadow:0 0 8px #25b9c1}
+.game-cover .menu-connections{z-index:1;color:#f06aa399}
+.game-cover .cover-content>.seal{display:none}
+
+.game-cover .cover-content>.eyebrow{font-family:var(--type);color:#7fe9ee;letter-spacing:.35em;text-shadow:0 0 8px #25b9c1aa}
+
+/* Başlık: neon tüp yazı */
+.game-cover .cover-content h1{font-family:'Monoton',var(--heading);font-weight:400;font-size:clamp(44px,5.1vw,84px);letter-spacing:.06em;line-height:1.05;text-transform:uppercase;margin-top:6px}
+.game-cover .cover-content h1 .living-title{background:none;-webkit-background-clip:border-box;background-clip:border-box;-webkit-text-fill-color:#ffe9f3;color:#ffe9f3;filter:none;text-shadow:0 0 4px #fff,0 0 10px #f06aa3,0 0 22px #d63779,0 0 44px #d63779,0 0 80px #d6377988;animation:title-drift 9s ease-in-out 1.15s infinite,neon-flicker 7s linear 2s infinite}
+@keyframes neon-flicker{0%,18%,22%,62%,64%,100%{opacity:1}20%,63%{opacity:.55}}
+
+/* Alt başlık: el yazısı neon */
+.cover-script{font-family:'Yellowtail',cursive;font-size:clamp(34px,3.6vw,56px);line-height:1;margin:-4px 0 0;color:#dffcff;transform:rotate(-6deg);text-shadow:0 0 3px #fff,0 0 10px #25b9c1,0 0 24px #25b9c1,0 0 48px #1c8f96}
+.game-cover .author{color:#e6a345;margin-top:28px;text-shadow:0 0 10px #e6a34566}
+.game-cover .little-rule{background:#f06aa3;box-shadow:0 0 8px #f06aa3}
+.game-cover .cover-description{color:#e9dcc8;text-shadow:0 1px 8px #0d1226}
+
+.game-cover .primary-button{background:transparent;color:#ffe9f3;border:2px solid #f06aa3;box-shadow:0 0 10px #d63779aa,inset 0 0 10px #d6377955;text-shadow:0 0 6px #f06aa3;letter-spacing:.08em}
+.game-cover .primary-button:hover{background:#d63779;color:#fff;border-color:#f06aa3}
+.game-cover .studio-return{color:#c9cee0}
+
+/* Menü kutuları: gece tabelası */
+.game-cover .menu-portal{background:#0d1226c4;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);border:1px solid #f06aa3;box-shadow:0 0 12px #d6377966,inset 0 0 14px #d6377922;color:#ffeef6}
+.game-cover .menu-portal::before,.game-cover .menu-portal::after{display:none}
+.game-cover .portal-index{color:#7fe9ee;text-shadow:0 0 6px #25b9c1}
+.game-cover .portal-note{color:#c9cee0}
+.game-cover .portal-joint{background:transparent;color:#f06aa3;text-shadow:0 0 6px #f06aa3}
+.game-cover .menu-portal:hover,.game-cover .menu-portal:focus-visible{background:#121a30e6;border-color:#7fe9ee;box-shadow:0 0 16px #25b9c1aa,inset 0 0 16px #25b9c133;color:#fff}
+.game-cover .cover-bottom{color:#c9cee0;z-index:2}
+.game-cover .cover-motion{color:#c9cee0}
+
+@media(max-width:850px){
+ .game-cover{background:linear-gradient(#0d1226 0 50%,#0b0f20 50%)}
+ .neon-scene{inset:auto;top:300px;left:-90%;width:280%;height:auto}
+ .game-cover .cover-content h1{font-size:clamp(34px,10.5vw,64px)}
+ .cover-script{font-size:clamp(30px,9vw,44px)}
+ .game-cover .cover-content::before{inset:-40px -30px}
+ .game-cover .portal-menu::before,.game-cover .portal-menu::after{border-color:#f06aa399}
+}
+@media(prefers-reduced-motion:reduce){.neon-scene *,.game-cover .cover-content h1 .living-title{animation:none!important}}
+.game-cover[data-motion=off] .neon-scene *{animation:none!important}
+@media print{.neon-scene{display:none}.game-cover .cover-content h1 .living-title,.cover-script{text-shadow:none;color:#000;-webkit-text-fill-color:#000}}
