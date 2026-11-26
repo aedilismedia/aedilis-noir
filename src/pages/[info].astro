@@ -1,7 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Seal from '../components/Seal.astro';
-import {book,universe} from '../lib/content';
-export function getStaticPaths(){return book.showUniverse?[{params:{info:"evren"}}]:[];}
+import {book,info} from '../lib/content';
+// Spoilersız tanıtım sayfaları: kök klasördeki evren.md ve valara.md dosyalarından üretilir.
+const pages={evren:{title:'Evren Hakkında',eyebrow:'EVREN HAKKINDA'},valara:{title:'Valara',eyebrow:'ŞEHİR · AKDENİZ’İN İNCİSİ'}};
+export function getStaticPaths(){return ['evren','valara'].filter(name=>name!=='evren'||book.showUniverse).map(info=>({params:{info}}));}
+const {info:name}=Astro.params;
+const page=pages[name];
 ---
-<Layout title="Evren Hakkında"><main id="main" class="universe page-shell"><Seal/><span class="eyebrow">EVREN HAKKINDA</span>{book.showUniverse?<article class="prose" set:html={universe()}/>:<><h1>Bu sayfa mühürlenmiş.</h1><p>Evren sayfası şu an yayımlanmıyor.</p></>}</main></Layout>
+<Layout title={page.title}><main id="main" class="universe page-shell"><Seal/><span class="eyebrow">{page.eyebrow}</span>{name!=="evren"&&<h1 class="info-title">{page.title}</h1>}<article class="prose" set:html={info(name)}/></main></Layout>

@@ -8,7 +8,7 @@ import sharp from 'sharp';
 // Markdown içindeki görseller de son HTML üzerinden aynı işleme girer.
 export default function optimizeImages(){
  let base='/';
- return {name:'kut-local-images',hooks:{
+ return {name:'noir-local-images',hooks:{
   'astro:config:done':({config})=>{base=config.base.replace(/\/$/,'')+'/'},
   'astro:build:done':async({dir,logger})=>{
    const root=fileURLToPath(dir),cache=new Map();let count=0;

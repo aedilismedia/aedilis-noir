@@ -42,4 +42,4 @@ jobs:
           password: ${{ env.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./dist/
-          server-dir: domains/aedilismedia.com/public_html/kutmuhru/
+          server-dir: domains/aedilismedia.com/public_html/aedilisnoir/

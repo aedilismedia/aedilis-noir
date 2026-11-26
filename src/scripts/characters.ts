@@ -25,9 +25,9 @@ document.addEventListener('click',event=>{
 });
 
 // --- Okuma durumuna göre açılan karakterler (mekanlarla aynı kural ve aynı anahtar) ---
-const refresh=()=>(window as any).kutCharacters?.();
-const readFlag=()=>{try{return JSON.parse(localStorage.getItem('kut-atlas-all')||'false')===true;}catch{return false;}};
-const writeFlag=(on:boolean)=>{try{localStorage.setItem('kut-atlas-all',JSON.stringify(on));}catch{/* Gizli gezinmede seçim kaydedilmez. */}};
+const refresh=()=>(window as any).noirCharacters?.();
+const readFlag=()=>{try{return JSON.parse(localStorage.getItem('noir-atlas-all')||'false')===true;}catch{return false;}};
+const writeFlag=(on:boolean)=>{try{localStorage.setItem('noir-atlas-all',JSON.stringify(on));}catch{/* Gizli gezinmede seçim kaydedilmez. */}};
 const modeButton=document.querySelector<HTMLButtonElement>('#char-mode');
 const spoiler=document.querySelector<HTMLDialogElement>('#char-spoiler');
 let returnFocus:HTMLElement|null=null;

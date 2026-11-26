@@ -45,3 +45,4 @@ export function chapters(){
  return list;
 }
 export function universe(){return render(parseFile(path.resolve('evren.md')).content);}
+export function info(name){const file=path.resolve(`${name}.md`);return fs.existsSync(file)?render(parseFile(file).content):'';}

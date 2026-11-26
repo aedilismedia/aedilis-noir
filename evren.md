@@ -1,7 +1,9 @@
-İnsanların yaşadığı dünya, gerçekliğin yalnızca bir katmanıdır.
+Aedilis Noir, 1923'ten bugüne uzanan ve birbirine bağlı dönem romanlarından oluşan bir evrendir.
 
-Çok eski çağlarda Gök, Yer-Su ve Yeraltı insanla bugünkünden çok daha yakın yaşardı. Dağların, nehirlerin, pınarların bir adı vardı; ölümün de bir yönü. Bu bağın taşıdığı kudrete Kut dendi: canlıların, toprağın, yıldızların ve bazı yerlerin yaşam gücü, kader ağırlığı. Kut yaratılmaz; taşınır, çağrılır, bağlanır. Ve her kullanımın bir karşılığı vardır: bir isim, bir hatıra, bir ses, bir renk.
+Türkiye Cumhuriyeti 1923'te kurulur. Tarih bundan sonra bildiğimiz yoldan ayrılır. Bu ülkede askerî darbe yaşanmamıştır, ama kendi siyasi krizleri, kendi şehirleri, kendi markaları ve kendi şarkıları vardır. Haritası tanıdık görünür; kıyıları ve şehirleri başkadır.
 
-Sonra kapılar kuruldu. Anadolu'nun altına, Türk, Bizans, Yunan, İran ve daha eski halkların üst üste bıraktığı katmanların arasına, mühürler yerleştirildi. Kimilerine göre insanı korumak için. Kimilerine göre başka bir şeyi saklamak için. Hangisinin doğru olduğunu bugün kimse kesin söyleyemez.
+Dersina ülkenin büyük şehri, Aksara başkentidir. Hikâyenin kalbi ise Akdeniz kıyısındaki Valara'da atar.
 
-Kut Mührü, o mühürlerin hala durduğu bir İstanbul'da geçer: bir kazı alanında, bir han odasında, bir arşiv rafında. Tanrılar ve büyük güçler uzaktadır; yakın olan, onların bıraktığı eşiklerdir.
+**Günah Körfezi** evrenin ilk romanıdır ve 1986 ile 1989 arasında geçer. Demokrasinin sürdüğü, ama ekonominin ağır bir krizle sarsıldığı yıllardır bunlar.
+
+Romandaki bütün şehirler, kurumlar, siyasetçiler ve ticari markalar kurgudur. Gerçek tarihî kişiler yalnızca geçmişin bir parçası olarak anılır.
