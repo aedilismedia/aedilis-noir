@@ -16,7 +16,7 @@ export default function optimizeImages(){
     if(/^(?:[a-z]+:|\/\/|#)/i.test(src))return src;
     const clean=decodeURIComponent(src.split(/[?#]/)[0]);
     const file=clean.startsWith('/')?path.resolve(root,clean.startsWith(base)?clean.slice(base.length):clean.slice(1)):path.resolve(path.dirname(page),clean);
-    if(!file.startsWith(root)||! /\.(?:png|jpe?g|webp|avif)$/i.test(file)||file.includes('/mekan-gorselleri/')||file.includes('/_optimized/'))return src;
+    if(!file.startsWith(root)||! /\.(?:png|jpe?g|webp|avif)$/i.test(file)||file.includes('/mekan-gorselleri/')||file.includes('/sahneler/')||file.includes('/_optimized/'))return src;
     if(cache.has(file))return cache.get(file);
     try{
      const input=await fs.readFile(file);const metadata=await sharp(input).metadata();
