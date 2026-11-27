@@ -181,6 +181,33 @@
    "y": 1372,
    "chapter": 1,
    "text": "İskelelerde yan yana bağlı tekneler, akşam kepenk indiren denizcilik dükkânları ve halatların gıcırtısı."
+  },
+  {
+   "id": "deniz-yildizi-kahvehanesi",
+   "name": "Deniz Yıldızı Kahvehanesi",
+   "district": "Sarnıç",
+   "x": 392,
+   "y": 482,
+   "chapter": 2,
+   "text": "İki eski apartmanın zemin katına sıkışmış, mavi kapılı bir mahalle kahvehanesi. İçeride tavla oynanır, rafta kısık bir radyo çalar; kahve isteyen biraz bekler."
+  },
+  {
+   "id": "deniz-yildizi-pastanesi",
+   "name": "Deniz Yıldızı Pastanesi",
+   "district": "Kordon",
+   "x": 1250,
+   "y": 770,
+   "chapter": 2,
+   "text": "Kordon'da camlı vitrinli bir pastane. Profiterolü iyidir, pahalıdır ama iyidir."
+  },
+  {
+   "id": "kordon-iskelesi",
+   "name": "Kordon İskelesi",
+   "district": "Kordon",
+   "x": 1140,
+   "y": 790,
+   "chapter": 2,
+   "text": "Karşı yakaya vapurların kalktığı iskele. Bekleme salonu bir tren istasyonununki gibi dar ve uzundur; jeton gişenin önünde sıraya girilerek alınır."
   }
  ]
 }
