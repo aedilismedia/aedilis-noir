@@ -6,6 +6,7 @@ import {characters} from '../../lib/characters';
 import atlas from '../../data/harita.json';
 import '../../styles/unlocks.css';
 import '../../styles/gloss.css';
+import '../../styles/scenes.css';
 export function getStaticPaths(){const all=chapters();return all.map((chapter,i)=>({params:{slug:chapter.slug},props:{chapter,previous:all[i-1],next:all[i+1]}}));}
 const {chapter:c,previous,next}=Astro.props;
 // Bu bölümle ilk kez açılan karakterler ve mekanlar (okuma ilerlemesiyle aynı kural: ilk geçtiği bölüm).

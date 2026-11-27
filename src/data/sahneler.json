@@ -1,0 +1,13 @@
+{
+  "_not": "Bölüm içi sahne görselleri. Bölüm metnine dokunulmaz: her görsel, 'after' parçasını içeren paragrafın hemen arkasına derleme sırasında eklenir. Görseller public/sahneler/ içinde, <ad>-800.webp ve <ad>-1600.webp olarak durur.",
+  "scenes": [
+    {"chapter": 1, "image": "bolum-01-tahliye", "width": 1600, "height": 900, "after": "Sarıldılar. Nihat", "alt": "Yağmurlu bir sabah, cezaevinin demir kapısının önünde Nihat şemsiyeyi Tamer'in başının üstüne tutuyor; yanlarında farları yanan siyah bir otomobil."},
+    {"chapter": 1, "image": "bolum-01-firtina-lokantasi", "width": 1600, "height": 900, "after": "Selim başını salladı, sanki bir konu kapanmıştı.", "alt": "Lokantanın arka odasında Selim, pencerenin önündeki masada Tamer'in bileğini tutup eski kol saatine bakıyor; arkada suyun üstünde bir yük gemisi."},
+    {"chapter": 1, "image": "bolum-01-liman-deposu", "width": 1600, "height": 800, "after": "Vedat ona bir bardak çay doldurdu.", "alt": "Liman deposunda uzun masa: Vedat saatine bakıyor, kır saçlı adam para destelerini diziyor, Kemal elinde çay bardağıyla oturuyor; arkada sandıklı kamyon ve kapıya dönük Tamer."},
+    {"chapter": 1, "image": "bolum-01-sahil-yolu", "width": 1600, "height": 800, "after": "Sahil yoluna çıktıklarında güneş batmak üzereydi.", "alt": "Arka camı kırık otomobilin içinden gün batımında palmiyeli sahil yolu; direksiyonda çatlak gözlüklü Kemal, yanında susan Tamer."},
+    {"chapter": 1, "image": "bolum-01-yat-melis", "width": 1600, "height": 800, "after": "Küpeştenin yanındaki alçak bankta bir kadın oturuyordu.", "alt": "Yatın kıç güvertesinde, tentenin kenarında Melis ve Tamer bankta oturuyor; arkada saksafoncu ve misafirler, ötede marinanın ışıkları."},
+    {"chapter": 1, "image": "bolum-01-palmiye-oteli", "width": 1600, "height": 900, "after": "İmza yoktu. Tamer kâğıdı çevirdi.", "alt": "Gece, Palmiye Oteli'nin pembe neon palmiyesinin altında Tamer zarftan çıkan kâğıdı okuyor; içeride resepsiyonda uykulu gece nöbetçisi."},
+    {"chapter": 2, "image": "bolum-02-deniz-yildizi", "width": 1600, "height": 900, "after": "Sonra kahve fincanını Tamer'in önünden aldı", "alt": "Deniz Yıldızı kahvehanesinde Levent soğumuş kahveyi tek seferde içiyor, Tamer onu izliyor; arkada ocak başında Salih Usta ve masanın üstünde ters duran sandalye."},
+    {"chapter": 2, "image": "bolum-02-kopru", "width": 1600, "height": 684, "after": "Köprünün ortasında trafik durdu.", "alt": "Köprünün ortasında trafikte bekleyen arabanın içinde Tamer camdan aşağı bakıyor, direksiyonda Levent; ileride arızalı kamyon ve karşı kıyıda fabrika bacaları."}
+  ]
+}
